@@ -1,0 +1,6 @@
+1. Data in normal distibution is symmetric, meaning the distibution curve(bell curve) can be divided into 2 equal parts.
+2. Mean, Median, and Mode are equal 
+3. There is a constant proportion of distance lying under the curve between the mean and specific number of standard deviations from the mean
+3.1 68% of data lies within one standard deviation from the mean 
+3.2 98% of data falls within 2 standard deviations from the mean
+3.3 99% of data lies within 3 standard deviations from the mean. 
